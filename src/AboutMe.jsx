@@ -14,7 +14,7 @@ function Fav(props){
 export default function AboutMe(){
     return(
         <div className="pt-16 flex flex-col items-center gap-4 bg-[#c5ccd1] p-7">
-            <h2 className="text-2xl mb-4 font-bold">MY FAVS!</h2>
+            <h2 className="text-3xl mb-4 font-bold">MY FAVS!</h2>
             <Fav img="https://www.allkpop.com/upload/2024/10/content/251236/1729874191-header-photo.jpg"
                 title="ARTIST"
                 description1="I got into Tomorrow X Together (TXT) at the start of last year! They were my top listened to artist
