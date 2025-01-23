@@ -29,7 +29,7 @@ export default function ToDo() {
 
         /* [FORM ACTIVITY] 
             1. Console log the new task once the submit button is clicked. 
-            2. Clear the newTask state variable
+            2. Clear the newTask state variable (set to empty string)
         */
        // [Insert Code Below]
 
